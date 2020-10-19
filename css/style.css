@@ -1,2 +1,8 @@
-@import 'global.css';
+/* @import './base/reset.css'; */
+@import './base/typography.css';
+@import './base/global.css';
+
 @import './components/button.css';
+@import './components/header.css';
+@import './components/editor.css';
+@import './components/quote.css';
