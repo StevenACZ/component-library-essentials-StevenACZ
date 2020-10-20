@@ -58,6 +58,9 @@
 .code--gray {
   color: #595959;
 }
+.code--green {
+  color: #61a471;
+}
 
 .paragraph__p {
   width: 640px;

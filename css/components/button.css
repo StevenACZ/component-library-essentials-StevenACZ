@@ -1,5 +1,6 @@
 .button {
   padding: 10px 16px;
+  min-height: 40px;
   background-color: #F8F9FA;
   border: none;
   border-radius: 8px;
@@ -19,7 +20,8 @@
 }
 
 .button--small {
-  padding: 7px 8px;
+  padding: 4px 8px;
+  min-height: 34px;
 }
 
 .button--large {
@@ -30,7 +32,7 @@
   background-color: var(--color--blue);
   color: white;
 }
-.button--secondary {
+.button--secundary {
   background-color: var(--color--gray);
   color: white;
 }

@@ -17,12 +17,12 @@
   margin: 0;
 }
 
-/* MAIN */
+/* Main */
 .main {
   margin: 0 auto;
   width: 959px;
   max-width: 959px;
-  padding: 16px;
+  padding: 20px;
 }
 
 /* Section */
@@ -55,7 +55,6 @@
   border-radius: 50px;
   margin-right: 8px;
 }
-
 .circle--blue {
   background-color: var(--color--blue);
 }
@@ -102,4 +101,27 @@
 }
 .images__container > div {
   margin-right: 32px;
+}
+
+/* Banner */
+.banner {
+  width: 100%;
+  height: 322px;
+  background-image: url('../../img/banner.png');
+  padding: 55px 96px;
+}
+
+.banner__hero {
+  margin-bottom: 48px;
+}
+
+.banner__title {
+  font-size: 32px;
+  color: white;
+  margin-bottom: 24px;
+}
+
+.banner__subtitle {
+  font-size: 16px;
+  color: white;
 }
