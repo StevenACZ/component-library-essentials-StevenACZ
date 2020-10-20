@@ -12,3 +12,19 @@
 .editor > p {
   margin-bottom: 5px;
 }
+
+.code--blue {
+  color: #277EDD;
+}
+.code--red {
+  color: #D42F3C;
+}
+.code--orange {
+  color: #D46B08;
+}
+.code--gray {
+  color: #595959;
+}
+.code--green {
+  color: #61a471;
+}
